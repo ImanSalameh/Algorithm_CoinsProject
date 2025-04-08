@@ -1,3 +1,5 @@
 "# Alogrithm_CoinsProblem" 
 "# Algorithm_CoinsProblem" 
 "# Algorthim_CoinsProject" 
+"# Algorthim_CoinsProject" 
+"# Algorthim_CoinsProject" 
